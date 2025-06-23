@@ -16,4 +16,5 @@ format:
     toc: true
 
 editor: visual
+output-dir: .
 
