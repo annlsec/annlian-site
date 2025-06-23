@@ -11,11 +11,13 @@ website:
         text: About
   page-footer: "© 2025 Ann Lian"
 
+editor: visual
+output-dir: docs
+
+
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
 
-editor: visual
-output-dir: docs
