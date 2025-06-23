@@ -7,7 +7,9 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About
+  page-footer: "© 2025 Ann Lian"
 
 format:
   html:
@@ -17,4 +19,3 @@ format:
 
 editor: visual
 output-dir: .
-
