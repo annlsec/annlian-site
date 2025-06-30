@@ -1,5 +1,5 @@
 ---
-title: "annlian-site"
+title: "Ann Lian's Website"
 ---
 
 This is a Quarto website.
@@ -10,3 +10,17 @@ To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 1 + 1
 ```
 
+
+# About Me
+
+I’m a data analyst with expertise in Python, R, and SQL, passionate about using data to solve public policy and cybersecurity challenges. My work focuses on misinformation detection, international security, and public opinion analysis.
+
+🔗 [LinkedIn](https://www.linkedin.com/in/annlian)
+[📄 Download my resume](Ann_Lian_Resume.pdf)
+
+
+# Contact Me
+
+📧 al1698@georgetown.edu  
+📍 Washington, DC  
+🔗 [LinkedIn](https://www.linkedin.com/in/annlian)

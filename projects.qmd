@@ -1,0 +1,19 @@
+---
+title: "Projects"
+---
+
+## 🛰️ Impact of Cyber Attacks on Alliances
+
+-   Used machine learning to predict military spending trends with 98.45% accuracy.
+-   Analyzed 1,000+ incidents and alliance dynamics.
+-   [Code](https://github.com/annlsec/gis_project)
+
+## 🗺️ Geospatial Analysis of Conflicts
+
+-   Mapped 10,000+ geospatial records to analyze natural resource proximity and regional conflicts.
+-   Applied Global Moran’s I and spatial econometrics.
+
+## 📰 Mapping Media Narratives
+
+-   Combined network and TF-IDF analysis on news data.
+-   Built automated web scraping pipelines to detect media bias.

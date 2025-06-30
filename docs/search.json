@@ -4,13 +4,48 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "About this site"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "annlian-site",
+    "title": "Ann Lian’s Website",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\n\nAbout Me\nI’m a data analyst with expertise in Python, R, and SQL, passionate about using data to solve public policy and cybersecurity challenges. My work focuses on misinformation detection, international security, and public opinion analysis.\n🔗 LinkedIn 📄 Download my resume\n\n\nContact Me\n📧 al1698@georgetown.edu\n📍 Washington, DC\n🔗 LinkedIn"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Used machine learning to predict military spending trends with 98.45% accuracy.\nAnalyzed 1,000+ incidents and alliance dynamics.\nCode"
+  },
+  {
+    "objectID": "projects.html#impact-of-cyber-attacks-on-alliances",
+    "href": "projects.html#impact-of-cyber-attacks-on-alliances",
+    "title": "Projects",
+    "section": "",
+    "text": "Used machine learning to predict military spending trends with 98.45% accuracy.\nAnalyzed 1,000+ incidents and alliance dynamics.\nCode"
+  },
+  {
+    "objectID": "projects.html#geospatial-analysis-of-conflicts",
+    "href": "projects.html#geospatial-analysis-of-conflicts",
+    "title": "Projects",
+    "section": "🗺️ Geospatial Analysis of Conflicts",
+    "text": "🗺️ Geospatial Analysis of Conflicts\n\nMapped 10,000+ geospatial records to analyze natural resource proximity and regional conflicts.\nApplied Global Moran’s I and spatial econometrics."
+  },
+  {
+    "objectID": "projects.html#mapping-media-narratives",
+    "href": "projects.html#mapping-media-narratives",
+    "title": "Projects",
+    "section": "📰 Mapping Media Narratives",
+    "text": "📰 Mapping Media Narratives\n\nCombined network and TF-IDF analysis on news data.\nBuilt automated web scraping pipelines to detect media bias."
+  },
+  {
+    "objectID": "Publications.html",
+    "href": "Publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Misinformation"
   }
 ]

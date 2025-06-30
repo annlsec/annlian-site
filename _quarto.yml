@@ -3,13 +3,17 @@ project:
   output-dir: docs
 
 website:
-  title: "annlian-site"
+  title: "Ann Lian's Website"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - href: about.qmd
         text: About
+      - href: projects.qmd
+        text: Projects
+      - href: publications.qmd
+        text: Publications
   page-footer: "© 2025 Ann Lian"
 
 
